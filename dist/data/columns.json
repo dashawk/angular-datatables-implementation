@@ -1,0 +1,20 @@
+[
+	{
+		"data": null,
+		"key": "image",
+		"title": "Avatar"
+	},
+	{
+		"data": null,
+		"key": "name",
+		"title": "Name"
+	},
+	{
+		"data": "email",
+		"title": "Email"
+	},
+	{
+		"data": "phone",
+		"title": "Phone Number"
+	}
+]

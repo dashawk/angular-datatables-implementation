@@ -1,0 +1,17 @@
+<div style="padding: 10px 0;">
+	<div class="col-xs-8 col-xs-offset-5">
+		<button ng-click="vm.change()">Change Column and Show {{ vm.gender }}</button>
+	</div>
+	<div class="col-xs-6 col-xs-offset-3">
+		<div class="table-responsive">
+			<table
+				class="table"
+				datatable
+				dt-options="vm.tableOptions"
+				dt-disable-deep-watchers="true"
+				dt-columns="vm.tableColumns"
+				dt-instance="vm.tableInstance">
+			</table>
+		</div>
+	</div>
+</div>

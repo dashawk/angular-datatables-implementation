@@ -18,6 +18,7 @@
     "bootstrap": "^3.3.6",
     "angular": "^1.5.6",
     "angular-resource": "^1.5.6",
-    "angular-datatables": "^0.5.4"
+    "angular-datatables": "^0.5.4",
+    "angular-ui-router": "^0.3.1"
   }
 }
