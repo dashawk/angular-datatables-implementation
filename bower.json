@@ -1,0 +1,23 @@
+{
+  "name": "angular-datatable",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jason <jasonp@isell.com.au>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/dashawk/angular-datatables-implementation",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.6",
+    "angular-resource": "^1.5.6",
+    "angular-datatables": "^0.5.4"
+  }
+}
